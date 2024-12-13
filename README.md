@@ -1,6 +1,6 @@
 ## About Me 👋
 
-- Front-end Development;
+- Front-end developer;
 - I’m currently learning full-stack development technologies;
 - Bachelor's degree in Information Systems;
 
